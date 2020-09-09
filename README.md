@@ -5,7 +5,7 @@ This is a remake of We work's website UI where I added a few animations using js
 
 ## Demo-
 
-![WeWork UI demo](https://drive.google.com/file/d/1sKhWmoqlZ2Ge39AjVS7BinObpiLmwa9B/view?usp=sharing)
+![WeWork UI demo](demo/demo.gif)
 
 ### To get the repo on local machine-
 
